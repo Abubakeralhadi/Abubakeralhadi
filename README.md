@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abubakeralhadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-  Hi, I’m @Abubakeralhadi
+-  I’m interested in anything about programming.
+-  I’m currently learning Flutter.
+-  I’m looking to collaborate on any work.
+-  How to reach me insta:proff.dev
 
 <!---
 Abubakeralhadi/Abubakeralhadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
